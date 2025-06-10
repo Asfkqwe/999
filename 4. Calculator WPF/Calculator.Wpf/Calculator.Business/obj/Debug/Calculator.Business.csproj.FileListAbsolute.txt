@@ -1,0 +1,12 @@
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Business\bin\Debug\Calculator.Business.dll
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Business\bin\Debug\Calculator.Business.pdb
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Business\obj\Debug\Calculator.Business.csproj.AssemblyReference.cache
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Business\obj\Debug\Calculator.Business.csproj.CoreCompileInputs.cache
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Business\obj\Debug\Calculator.Business.dll
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Business\obj\Debug\Calculator.Business.pdb
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Business\bin\Debug\Calculator.Business.dll
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Business\bin\Debug\Calculator.Business.pdb
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Business\obj\Debug\Calculator.Business.csproj.AssemblyReference.cache
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Business\obj\Debug\Calculator.Business.csproj.CoreCompileInputs.cache
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Business\obj\Debug\Calculator.Business.dll
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Business\obj\Debug\Calculator.Business.pdb

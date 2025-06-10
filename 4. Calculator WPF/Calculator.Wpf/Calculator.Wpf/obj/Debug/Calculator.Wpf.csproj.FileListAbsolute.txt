@@ -1,0 +1,38 @@
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\bin\Debug\Calculator.Wpf.exe.config
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\bin\Debug\Calculator.Wpf.exe
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\bin\Debug\Calculator.Wpf.pdb
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\bin\Debug\Calculator.Business.dll
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\bin\Debug\Calculator.Business.pdb
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\Calculator.Wpf.csproj.AssemblyReference.cache
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\App.g.cs
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\Calculator.Wpf_MarkupCompile.cache
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\Calculator.Wpf_MarkupCompile.lref
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\MainWindow.baml
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\Calculator.Wpf.g.resources
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\Calculator.Wpf.Properties.Resources.resources
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\Calculator.Wpf.csproj.GenerateResource.cache
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\Calculator.Wpf.csproj.CoreCompileInputs.cache
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\Calculat.65EEFB8A.Up2Date
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\Calculator.Wpf.exe
+C:\Users\Vladi\Desktop\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\Calculator.Wpf.pdb
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\bin\Debug\Calculator.Wpf.exe.config
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\bin\Debug\Calculator.Wpf.exe
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\bin\Debug\Calculator.Wpf.pdb
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\bin\Debug\Calculator.Business.dll
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\bin\Debug\Calculator.Business.pdb
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\Calculator.Wpf.csproj.AssemblyReference.cache
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\App.g.cs
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\Calculator.Wpf_MarkupCompile.cache
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\Calculator.Wpf_MarkupCompile.lref
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\MainWindow.baml
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\Calculator.Wpf.g.resources
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\Calculator.Wpf.Properties.Resources.resources
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\Calculator.Wpf.csproj.GenerateResource.cache
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\Calculator.Wpf.csproj.CoreCompileInputs.cache
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\Calculat.65EEFB8A.Up2Date
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\Calculator.Wpf.exe
+C:\Users\Мой Господин!\source\repos\4. Calculator WPF\Calculator.Wpf\Calculator.Wpf\obj\Debug\Calculator.Wpf.pdb
