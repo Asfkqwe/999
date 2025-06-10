@@ -1,0 +1,20 @@
+C:\Users\Vladi\Documents\CSharpCollege\Projects.23.1.23.2\2. Drawing\Drawing\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Vladi\Documents\CSharpCollege\Projects.23.1.23.2\2. Drawing\Drawing\Drawing\bin\Debug\Drawing.exe
+C:\Users\Vladi\Documents\CSharpCollege\Projects.23.1.23.2\2. Drawing\Drawing\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Vladi\Documents\CSharpCollege\Projects.23.1.23.2\2. Drawing\Drawing\Drawing\obj\Debug\Drawing.csproj.AssemblyReference.cache
+C:\Users\Vladi\Documents\CSharpCollege\Projects.23.1.23.2\2. Drawing\Drawing\Drawing\obj\Debug\Drawing.DrawingForm.resources
+C:\Users\Vladi\Documents\CSharpCollege\Projects.23.1.23.2\2. Drawing\Drawing\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Vladi\Documents\CSharpCollege\Projects.23.1.23.2\2. Drawing\Drawing\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\Vladi\Documents\CSharpCollege\Projects.23.1.23.2\2. Drawing\Drawing\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Vladi\Documents\CSharpCollege\Projects.23.1.23.2\2. Drawing\Drawing\Drawing\obj\Debug\Drawing.exe
+C:\Users\Vladi\Documents\CSharpCollege\Projects.23.1.23.2\2. Drawing\Drawing\Drawing\obj\Debug\Drawing.pdb
+C:\Users\Мой Господин!\source\repos\2. Drawing\Drawing\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Мой Господин!\source\repos\2. Drawing\Drawing\Drawing\bin\Debug\Drawing.exe
+C:\Users\Мой Господин!\source\repos\2. Drawing\Drawing\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Мой Господин!\source\repos\2. Drawing\Drawing\Drawing\obj\Debug\Drawing.csproj.AssemblyReference.cache
+C:\Users\Мой Господин!\source\repos\2. Drawing\Drawing\Drawing\obj\Debug\Drawing.DrawingForm.resources
+C:\Users\Мой Господин!\source\repos\2. Drawing\Drawing\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Мой Господин!\source\repos\2. Drawing\Drawing\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\Мой Господин!\source\repos\2. Drawing\Drawing\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Мой Господин!\source\repos\2. Drawing\Drawing\Drawing\obj\Debug\Drawing.exe
+C:\Users\Мой Господин!\source\repos\2. Drawing\Drawing\Drawing\obj\Debug\Drawing.pdb
